@@ -1,0 +1,23 @@
+.navstyles {
+    margin-top: -1rem;
+    background-color: #80ff0071;
+    padding: 10px;
+    
+}
+.botonslink {
+    font-size: 17px;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+     background-color: #6bd700;
+     border: none;
+     border-radius: 5px; 
+     transition: .3s all eas
+}
+.botonslink:hover {
+    background-color: #80ff00;
+  }
+
+.active {
+    color: black;
+    text-decoration: none;
+}
